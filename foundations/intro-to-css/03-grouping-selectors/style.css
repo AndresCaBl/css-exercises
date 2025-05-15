@@ -1,0 +1,13 @@
+button {
+    font-size: 28px;
+    font-family: helvetica,'Times New Roman', sans-serif;
+}
+
+.uno{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.dos{
+    background-color: #ffff00;
+}
